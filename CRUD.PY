@@ -165,6 +165,7 @@ cuadroID.grid(row=0, column=1, padx=10, pady=10)
 cuadroNombre=Entry(miFrame, textvariable=miNombre)
 cuadroNombre.grid(row=1, column=1, padx=10, pady=10)
 cuadroNombre.config(fg="red", justify="right")
+#cuadroNombre.config(fg="red", justify="right")
 
 cuadroPass=Entry(miFrame, textvariable=miPass)
 cuadroPass.grid(row=2, column=1, padx=10, pady=10)
