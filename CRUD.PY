@@ -223,3 +223,5 @@ botonBorrar=Button(miFrame2, text="Eliminar", command=eliminar)
 botonBorrar.grid(row=1, column=3, sticky="e", padx=10, pady=10)
 
 root.mainloop()
+
+#es  otra  prueba de git init
